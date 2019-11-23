@@ -1,0 +1,17 @@
+name: Alan5577-ux
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: Alan5577-ux@gmail.com
+    - name: Alan51
+      run: echo Hello, world!
+    - name: Alan51
+      run: 
+        echo Add other actions to build,
+        echo test, and deploy your project.
