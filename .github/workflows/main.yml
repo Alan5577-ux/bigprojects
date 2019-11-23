@@ -2,16 +2,16 @@ name: Alan5577-ux
 
 on: [push]
 
-jobs:
-  build:
+jobs:bigprojects
+  build:home
 
     runs-on: ubuntu-latest
 
     steps:
     - uses: Alan5577-ux@gmail.com
-    - name: Alan51
+    - name: Alan5577-uk
       run: echo Hello, world!
-    - name: Alan51
-      run: 
+    - name: Alan5577-ux
+      run: bigprojects
         echo Add other actions to build,
         echo test, and deploy your project.
